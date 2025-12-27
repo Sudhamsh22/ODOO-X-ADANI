@@ -106,7 +106,7 @@ Metadata APIs
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone <repository-url>
+git clone <https://github.com/Sudhamsh22/ODOO-X-ADANI.git>
 cd GearGuard
 
 2️⃣ Backend Setup
