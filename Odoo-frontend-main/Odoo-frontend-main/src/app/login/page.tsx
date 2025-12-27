@@ -21,8 +21,8 @@ import { Eye, EyeOff } from 'lucide-react';
 export default function LoginPage() {
   const router = useRouter();
   const { toast } = useToast();
-  const [email, setEmail] = React.useState('admin@example.com');
-  const [password, setPassword] = React.useState('password');
+  const [email, setEmail] = React.useState('');
+  const [password, setPassword] = React.useState('');
   const [loading, setLoading] = React.useState(false);
   const [showPassword, setShowPassword] = React.useState(false);
 
